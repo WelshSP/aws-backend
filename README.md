@@ -1,4 +1,5 @@
-# HUB Cloud AWS Backend Infrastructure
+# HUB Cloud AWS Backend Infrastructure 
+ *Please note that this project is in development as the Developer's requirements change often. This is the attempt to keep it stabilized.* 
 
 ## 1. The Problem Statement: The Context
 
